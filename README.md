@@ -214,20 +214,6 @@
 
 ---
 
-<h3><b><samp>GitHub Statistics & Activity</samp></b></h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArihantJain647&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="165" alt="Arihant's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArihantJain647&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" height="165" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ArihantJain647&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
-</p>
-
----
-
 <h3><b><samp>Contribution Animations & 3D Visualization</samp></b></h3>
 
 <h4><b><samp>Contribution Snake</samp></b></h4>
